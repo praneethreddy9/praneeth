@@ -1,6 +1,6 @@
 package com.capg.sprint1.dadims.service;
 
-public abstract class ProductOrder {
+public abstract class Order {
  abstract void placeOrder();
  abstract void updateOrder();
  abstract void displayOrder();
