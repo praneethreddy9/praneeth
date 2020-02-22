@@ -31,7 +31,7 @@ Scanner in=new Scanner(System.in);
 
 	@Override
 	void displayOrder() {
-		
+		Sysout
 		
 	}
 
